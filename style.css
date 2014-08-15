@@ -505,3 +505,17 @@ a.button {
   background-color: #9EACC6;
   text-decoration: none;
 }
+
+/*-----------------------------
+* Footer
+-----------------------------*/
+footer {
+  margin-top: 3rem;
+}
+div#copyright {
+  left: 35%;
+  position: relative;
+}
+#copyright p {
+  color: #072766;
+}

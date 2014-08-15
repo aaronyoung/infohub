@@ -78,4 +78,7 @@
 			<li><a href="http://archive.org/web/web.php" target="_blank">Internet Wayback Machine</a> | Websites throughout time! I'm sure this has some sort of valuable use in webdev.</li>		
 		</ul>
 </div>
+
+<?php include 'sections/footer.php'; ?>
+
 </html>

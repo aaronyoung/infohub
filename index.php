@@ -19,4 +19,7 @@
 
 <p> I guess one thing I could do is have a page with a list of sites I'm working on and some other pages with lists of resources to help keep me organized, since my chrome bookmarks are kind of a nightmare. Something like My Sites, Wordpress Plugins, Tutorials, Dev Environment links, Git Resources, Blogs, Competitor Sites, etc.</p>
 </div>
+
+<?php include 'sections/footer.php'; ?>
+
 </html>

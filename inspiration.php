@@ -40,4 +40,7 @@
 <h2>Fellow designers and developers</h2>
 <p> Need to provide links to other designers and developers who inspire me.</p>
 </div>
+
+<?php include 'sections/footer.php'; ?>
+
 </html>
