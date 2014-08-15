@@ -5,6 +5,7 @@
 	<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
 	<title>InfoHub | Aaron M Young</title>
 	<link rel="stylesheet" href="style.css" type="text/css" />
+	<link rel="shortcut icon" type="image/icon" href="img/favicon.ico" />
 </head>
 
 <?php include 'sections/header.php'; ?>
