@@ -10,14 +10,11 @@
 <?php include 'sections/header.php'; ?>
 
 <div id="page">
-<h2>Where do you wanna go?</h2>
-<ul>
-	<li><a href="#">Aaron M. Young</a> | <a href="#">Dashboard</a></li>
-	<li><a href="#">Theme Build</a> | <a href="#">Dashboard</a></li>
-</ul>
-<p>Not really sure what I should put in the <code>&ltnav&gt</code> tags of this page at this point. I suppose it might be good to have the links here in a list rather than at the top in a nav, since this will likely become a growing list and doesn't really need to be pretty or anything.</p>
+	<h2>Hey there!</h2>
+	
+	<p>My name is Aaron and this is just my training site. After a year or so doing contract work in a semi-bad drag-and-drop WordPress framework, I've decided it's time to roll up my sleeves and actually learn some of the more fundamental concepts of web development that the framework allowed me to bypass during that time. This humble site is meant to serve as both a platform for testing new concepts as I learn them, as well as way to organise the various tools and resources I gather along the way.</p>
 
-<p> I guess one thing I could do is have a page with a list of sites I'm working on and some other pages with lists of resources to help keep me organized, since my chrome bookmarks are kind of a nightmare. Something like My Sites, Wordpress Plugins, Tutorials, Dev Environment links, Git Resources, Blogs, Competitor Sites, etc.</p>
+	<p>If you are someone other than myself and have somehow stumbled upon this site, feel free to browse around and make use of the information I'm collecting here. Be aware that the site is very likely to be broken, incorrect, ugly and poorly put together from time to time as a function of being a practice project. I've been told that if I don't make mistakes, I won't have anything to learn from so I intend to make plenty here.</p>
 </div>
 
 <?php include 'sections/footer.php'; ?>
