@@ -48,6 +48,7 @@
 	<h2>Collaboration</h2>
 		<ul>
 			<li><a href="http://ge.tt/" target="_blank">Ge.tt</a> | Online drag-and-drop file sharing.</li>
+			<li><a href="http://github.com/AaronYoung" target="_blank">GitHub</a> | My GitHub profile.</li>
 			<li><a href="http://pastebin.com/u/AaronYoung" target="_blank">PasteBin</a> | My PasteBin profile.</li>
 		</ul>
 	<h2>Frameworks</h2>
