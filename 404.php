@@ -6,21 +6,8 @@
 	<title>InfoHub | Aaron M Young</title>
 	<link rel="stylesheet" href="style.css" type="text/css" />
 </head>
-<header>
-<div id="branding">
-	<ul>
-		<li><a href="/"><img alt="Aaron M. Young" src="img/logo-white.png" /></a></li>
-		<li><h1>InfoHub</h1></li>
-	</ul>
-</div>
-<nav id="main_nav">
-	<ul>
-		<li><a href="/">Home</a></li>
-		<li><a href="/inspiration.html">Inspiration</a></li>
-		<li><a href="/tools.html">Tools</a></li>
-	</ul>
-</nav>
-</header>
+
+<?php include 'sections/header.php'; ?>
 
 <div id="page">
 <h2>Turn around, asshole!</h2>
