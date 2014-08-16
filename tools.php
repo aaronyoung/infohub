@@ -58,8 +58,8 @@
 		</ul>
 	<h2>Testing</h2>
 		<ul>
-			<li><a href="http://mattkersley.com/responsive/" target="_blank">Resposive Design Testing</a> | Slightly better than resizing the browser window.</li>
-			<li><a href="http://www.responsinator.com/" target="_blank">Respnsinator</a> | Nicer looking responsive site tester.</li>
+			<li><a href="http://mattkersley.com/responsive/" target="_blank">Responsive Design Testing</a> | Slightly better than resizing the browser window.</li>
+			<li><a href="http://www.responsinator.com/" target="_blank">Responsinator</a> | Nicer looking responsive site tester.</li>
 			<li><a href="http://spoon.net/browsers" target="_blank">Browser Sandbox</a>Test all the browsers! (As of 8/14/2014 This is Windows only with Mac support "coming soon". No mention of Linux.)</li>
 			<li><a href="https://www.modern.ie/en-us/virtualization-tools#downloads" target="_blank">modern.IE</a> | Download Microsoft test VMs for Windows, Mac and Linux.</li>
 			<li><a href="http://validator.w3.org/#validate_by_uri+with_options" target="_blank">W3C Markup Validation Service</a> | Another aptly named utility.</li>
