@@ -11,7 +11,7 @@
 <?php include 'sections/header.php'; ?>
 
 <div id="page">
-<h2>Turn around, asshole!</h2>
-<p>There's nothing here! You probably typed it wrong. Let's get you back <a class="button" href="/">home</a></p>
+<h2>We couldn't find it. :(</h2>
+<p>There's nothing here! Whatever you were looking for couldn't be found. It could have been a typo, an old link, or some other mishap. These things can be mysterious. Let's get you back <a class="button" href="/">home</a></p>
 </div>
 </html>
