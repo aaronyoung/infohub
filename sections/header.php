@@ -11,6 +11,7 @@
 			<li><a href="/inspiration.php">Inspiration</a></li>
 			<li><a href="/tools.php">Tools</a></li>
 			<li><a href="/projects.php">Projects</a></li>
+			<li><a href="/reference.php">Reference</a></li>
 			<li><a href="/about.php">About</a></li>
 		</ul>
 	</nav>
