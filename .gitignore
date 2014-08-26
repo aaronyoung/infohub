@@ -41,3 +41,11 @@ Thumbs.db
 not_in_use
 podcast
 Sites
+
+/* Ignored from DogStorm */
+###########################
+.vagrant
+Vagrantfile
+amy
+bootstrap.sh
+themebuild
