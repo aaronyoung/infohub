@@ -13,7 +13,7 @@
 <div id="page">
 	<h2>About Aaron</h2>
 	
-	<img src="img/headshot.jpg" alt="Aaron M. Young" style="float: left; max-height: 200px; padding-right: 20px;">
+	<img src="img/headshot.jpg" alt="Aaron M. Young" style="float: left; max-height: 200px; margin-right: 20px; border-radius: 100px;">
 
 	<p>Aaron M. Young is a freelance web developer living in Portland, Oregon. He has done many things for money, including postage sorting, sandwich artistry, industrial construction, pizza construction, administrative drudgery, apartment management and the thousand jobs that come with it, hardware and software testing, punk rock, university help desk support, daycare custodianship, and WordPress development. He has "completed some college" and is currently spending his free time working toward stronger proficiency in HTML, CSS, MySQL, PHP and JavaScript.</p>
 </div>
