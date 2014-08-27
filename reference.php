@@ -21,7 +21,7 @@
 	</ul>
 	<h2>Documentation</h2>
 	<ul>
-		<li>Nothing here yet, either.</li>
+		<li><a href="http://developer.wordpress.org/reference/" target="_blank">WordPress Code Reference</a> | Index and description of al WP functions, hooks, classes and methods.</li>
 	</ul>
 </div>
 
